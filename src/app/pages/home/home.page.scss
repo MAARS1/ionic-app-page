@@ -1,0 +1,24 @@
+ion-content {
+    --ion-background-color: #f0f0f0; /* Background color for the content area */
+  }
+  
+  ion-title {
+    color: #333; /* Color of the header title text */
+  }
+  
+  ion-grid {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1.2rem;
+  }
+  
